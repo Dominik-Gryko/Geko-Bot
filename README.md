@@ -1,1 +1,3 @@
-# Geko-Bot-2
+# Geko-Bot
+Geko Bot, Coded in Python using Discord.py
+
